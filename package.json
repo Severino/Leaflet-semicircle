@@ -1,6 +1,6 @@
 {
   "name": "leaflet-semirings",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Draw semirings on Leaflet maps based on Jan Pieter Waagmeester's leaflet-semicircle",
   "main": "Semicircle.js",
   "scripts": {
