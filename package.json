@@ -1,7 +1,7 @@
 {
-  "name": "leaflet-semicircle",
+  "name": "leaflet-semirings",
   "version": "2.0.4",
-  "description": "Draw semicircles on Leaflet maps",
+  "description": "Draw semirings on Leaflet maps based on Jan Pieter Waagmeester's leaflet-semicircle",
   "main": "Semicircle.js",
   "scripts": {
     "test": "eslint Semicircle.js piechart/*.html piechart/*.js examples/* pacman/*.js pacman/*.html",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jieter/Leaflet-semicircle.git"
+    "url": "git+https://github.com/Severino/Leaflet-semiring"
   },
   "keywords": [
     "leaflet",
@@ -17,12 +17,12 @@
     "semicircle",
     "piechart"
   ],
-  "author": "Jan Pieter Waagmeester <jieter@jieter.nl>",
+  "author": "Severin Opel <sev.github@outlook.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jieter/Leaflet-semicircle/issues"
+    "url": "https://github.com/Severino/Leaflet-semiring/issues"
   },
-  "homepage": "https://github.com/jieter/Leaflet-semicircle#readme",
+  "homepage": "https://severino.github.io/Leaflet-semiring/#readme",
   "devDependencies": {
     "eslint": "^8.20.0",
     "eslint-plugin-html": "^7.1.0",

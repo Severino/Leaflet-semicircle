@@ -51,7 +51,7 @@ The plugin provides two ways to only display a part of the circle:
 
 
 ## Example:
-[Live demo](http://jieter.github.io/Leaflet-semicircle/examples/semicircle.html)
+[Live demo](https://severino.github.io/Leaflet-semiring/examples/semicircle.html)
 
 Using `options.startAngle` and `options.stopAngle`:
 ```js
@@ -83,12 +83,12 @@ L.semiCircle([51.5, -0.09], {
 
 ## Screenshot:
 
-[Live demo](http://jieter.github.io/Leaflet-semicircle/examples/semicircle.html)
+[Live demo](https://severino.github.io/Leaflet-semiring/examples/semicircle.html)
 
 ![Semicircles screenshot](screenshots/screenshot.png)
 
 ### Screenshot Using Rings
-[Live demo](http://jieter.github.io/Leaflet-semicircle/examples/semirings.html)
+[Live demo](https://severino.github.io/Leaflet-semiring/examples/semirings.html)
 
 ![Semicircles screenshot](screenshots/rings.png)
 
